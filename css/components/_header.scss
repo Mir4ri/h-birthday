@@ -1,12 +1,12 @@
 .header {
     background: #EDE9F4;
-    height: 100%;
+    height: 101%;
     width: 100%;
     background-image: url('/img/header_circle.svg');
     background-size: 100% 76%;
     background-position: 0 50%; 
     background-repeat: no-repeat;
-    margin-bottom: -20px;
+    margin-bottom: -10px;
     .noise {
         position: relative;
         top: -66%;
@@ -43,6 +43,21 @@
         }
         to {
             transform: rotateZ(360deg);
+        }
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .header {
+        .noise {
+            width: 1300px;
+            top: -58%;
+            left: 3.5%;
+        }
+        .cake {
+            width: 640px;
+            top: 8%;
+            left: 28%;
         }
     }
 }

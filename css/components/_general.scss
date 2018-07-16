@@ -1,5 +1,5 @@
 .wishing {
-    height: 97.2%;
+    height: 100%;
     background: url('../img/hb.svg') no-repeat;
     padding-top: 100px;
     overflow: hidden;
@@ -58,6 +58,14 @@
             .wish__ilu__hearth {
                 color: #ba78cd;
             }
+        }
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .wishing{
+        .wish-b{
+            padding: 0;
         }
     }
 }
