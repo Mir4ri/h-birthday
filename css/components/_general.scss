@@ -66,6 +66,34 @@
     .wishing{
         .wish-b{
             padding: 0;
+            width: 1200px;
+             .wish__hb {
+                 font-size: 35px;
+             }
+
+             .wish__wish {
+                 font-size: 35px;
+                 
+             }
+
+             .wish__beautiful {
+                 font-size: 65px;
+                 margin-left: 130px;
+             }
+
+             .wish__wish--2 {
+                 font-size: 35px;
+                 margin-right: 67px;
+             }
+
+             .wish__wish--3 {
+                 font-size: 35px;
+                 margin-left: 58px;
+             }
+
+             .wish__ilu {
+                 font-size: 55px;
+                 }
         }
     }
 }
