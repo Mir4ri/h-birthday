@@ -3,6 +3,7 @@
     height: 101%;
     width: 100%;
     margin-bottom: -10px;
+    overflow: hidden;
     .noise {
         position: relative;
         top: -54%;
@@ -46,18 +47,18 @@
     .header {
         .noise {
             width: 1300px;
-            top: -53%;
-            left: -0.5%;
+            top: -70%;
+            left: 0.5%;
         }
         .cake {
             width: 600px;
-            top: 10%;
+            top: 5%;
             left: 28%;
         }
         .h-birthday {
-            font-size: 100px;
+            font-size: 120px;
             top: 50%;
-            left: 68%;
+            left: 63%;
 
         }
     }
