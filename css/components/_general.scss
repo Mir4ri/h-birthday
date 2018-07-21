@@ -1,5 +1,5 @@
 .wishing {
-    height: 100%;
+    height: 101.5%;
     background: url('../img/hb.svg') no-repeat;
     padding-top: 100px;
     overflow: hidden;
@@ -60,6 +60,36 @@
             }
         }
     }
+}
+//  Поздоровлення дівчаток і моє
+.f-wish {
+    color: #31054C;
+    font-weight: bold;
+    font-size: 22px;
+    .wishing-i{
+        padding: 0;
+        text-align: center;
+    }
+    .flex {
+        display: flex;
+        justify-content: center;
+        .wishing-n {
+            margin: 0;
+            width: 540px;
+        }
+        .wishing-a {
+            margin: 0;
+            width: 770px;
+            text-align: right;
+        }
+    } 
+    .wishing-me {
+        margin-top: 50px;
+        text-align: center;
+        .wish__ilu__hearth {
+            color: #ba78cd;
+        }
+    }    
 }
 
 @media screen and (max-width: 1366px) {
