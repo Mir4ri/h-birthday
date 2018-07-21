@@ -2,12 +2,8 @@
   background: #EDE9F4;
   height: 101%;
   width: 100%;
-<<<<<<< HEAD
-  margin-bottom: -30px; }
-=======
   margin-bottom: -10px;
   overflow: hidden; }
->>>>>>> bed461cfd5a92fbbfa6acfad562f78c1749b88a1
   .header .noise {
     position: relative;
     top: -54%;
@@ -41,28 +37,16 @@
 @media screen and (max-width: 1366px) {
   .header .noise {
     width: 1300px;
-<<<<<<< HEAD
-    top: -53%;
-    left: -0.5%; }
-  .header .cake {
-    width: 600px;
-    top: 10%;
-=======
     top: -70%;
     left: 0.5%; }
   .header .cake {
     width: 600px;
     top: 5%;
->>>>>>> bed461cfd5a92fbbfa6acfad562f78c1749b88a1
     left: 28%; }
   .header .h-birthday {
     font-size: 120px;
     top: 50%;
-<<<<<<< HEAD
     left: 68%; } }
-=======
-    left: 63%; } }
->>>>>>> bed461cfd5a92fbbfa6acfad562f78c1749b88a1
 .wishing {
   height: 101.5%;
   background: url("../img/hb.svg") no-repeat;
@@ -114,7 +98,6 @@
       text-align: right; }
       .wishing .wish-b .wish__ilu .wish__ilu__hearth {
         color: #ba78cd; }
-<<<<<<< HEAD
 
 .f-wish {
   color: #31054C;
@@ -138,8 +121,6 @@
     text-align: center; }
     .f-wish .wishing-me .wish__ilu__hearth {
       color: #ba78cd; }
-=======
->>>>>>> bed461cfd5a92fbbfa6acfad562f78c1749b88a1
 
 @media screen and (max-width: 1366px) {
   .wishing .wish-b {
@@ -173,14 +154,9 @@
 html, body {
   height: 100%; }
 
-<<<<<<< HEAD
 .container {
   width: 1340px;
   margin: 0 auto; }
-=======
-body {
-  overflow-x: hidden; }
->>>>>>> bed461cfd5a92fbbfa6acfad562f78c1749b88a1
 
 * {
   font-family: 'Gilroy', sans-serif; }
